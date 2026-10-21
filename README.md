@@ -1,1 +1,1 @@
-# trading-simulator.github.io
+# trade-simulator.github.io
